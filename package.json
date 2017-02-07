@@ -9,5 +9,13 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies":  {  }    
+  "dependencies": {
+    "adal-node": "^0.1.22",
+    "async": "^2.1.4",
+    "azure-keyvault": "^1.0.0",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "azure-keyvault": "^1.0.0"
+  }
 }
