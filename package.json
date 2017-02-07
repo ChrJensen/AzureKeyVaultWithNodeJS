@@ -1,0 +1,11 @@
+{
+  "name": "azurekeyvault",
+  "version": "1.0.0",
+  "description": "Azure KeyVault with Node.js from Christos Matskas on www.simple-talk.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
